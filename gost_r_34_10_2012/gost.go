@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"unsafe"
 
-	ghash "github.com/number571/go-cryptopro/gost_r_34_11_2012"
+	ghash "github.com/gasparyanyur/cryptopro/gost_r_34_11_2012"
 )
 
 func init() {
